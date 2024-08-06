@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bronze Role",
+        "invites": 5,
+        "role_id": 1270062224437940314,
+        "category_id": 1270062999369023569
+    },
+    {
+        "name": "Silver Role",
+        "invites": 10,
+        "role_id": 1270062400590319628,
+        "category_id": 1270063041555333160
+    },
+    {
+        "name": "Gold Role",
+        "invites": 20,
+        "role_id": 1270062458316263525,
+        "category_id": 1270063079379566692
+    },
+    {
+        "name": "Diamond Role",
+        "invites": 40,
+        "role_id": 1270062573328400404,
+        "category_id": 1270063115014508656
+    }
+]
